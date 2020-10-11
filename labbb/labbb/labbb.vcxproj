@@ -19,11 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="задание4.1.cpp" />
-    <ClCompile Include="задание4.2.cpp" />
-    <ClCompile Include="задание4.3.cpp" />
-    <ClCompile Include="задание4.4.cpp" />
-    <ClCompile Include="задание4.5.cpp" />
+    <ClCompile Include="лабораторная 2_ввп\задание5.5.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
